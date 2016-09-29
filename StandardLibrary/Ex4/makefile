@@ -1,5 +1,5 @@
 CC = g++
-CXXFLAGS = -Wall -Wextra
+CXXFLAGS = -Wall -Wextra -std=c++11
 
 TARGET = myprog
 
